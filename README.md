@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josechenxu
 - 👀 I’m interested in Health Policy and Economics, Digital Transformation and Environmental Health.
-- 🌱 I’m currently learning to program in R, Python & SQL
+- 🌱 I use mainly R to program and conduct statistical analysis, but have learnt Python & SQL before
 - 💞️ I’m looking to collaborate on projects to improve health.
 - 📫 Reach me by email: josechenx@gmail.com
 
